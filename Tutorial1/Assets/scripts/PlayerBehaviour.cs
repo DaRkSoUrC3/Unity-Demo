@@ -5,7 +5,7 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
     const int MOVEMENT_RATE = 30;
-    const int ROTATION_RATE = 150;
+    const int ROTATION_RATE = 140;
     // Start is called before the first frame update
   
 
